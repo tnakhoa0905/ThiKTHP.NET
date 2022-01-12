@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\ThiKTHP\DTO\bin\Debug\DTO.exe.config
+C:\Users\USER\source\repos\ThiKTHP\DTO\bin\Debug\DTO.exe
+C:\Users\USER\source\repos\ThiKTHP\DTO\bin\Debug\DTO.pdb
+C:\Users\USER\source\repos\ThiKTHP\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ThiKTHP\DTO\obj\Debug\DTO.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\ThiKTHP\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\USER\source\repos\ThiKTHP\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ThiKTHP\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ThiKTHP\DTO\obj\Debug\DTO.exe
+C:\Users\USER\source\repos\ThiKTHP\DTO\obj\Debug\DTO.pdb
